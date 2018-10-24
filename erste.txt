@@ -5,5 +5,4 @@ ich schreibe noch etwas dazuvon janosch
 <<<<<<< HEAD
 neue Änderung auf meinem Branch Janosch
 =======
-neue echte Änderung auf meinem Branch Janosch
->>>>>>> newbranchbyjanosch
+nix gibts
