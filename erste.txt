@@ -1,9 +1,2 @@
 Hallo ist bearbeitet
-Dani und Lucki
-ich schreibe noch etwas dazuvon janosch
-
-<<<<<<< HEAD
-neue Änderung auf meinem Branch Janosch
-=======
-neue echte Änderung auf meinem Branch Janosch
->>>>>>> newbranchbyjanosch
+zurückgelöscht
