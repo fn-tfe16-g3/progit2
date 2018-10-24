@@ -1,4 +1,5 @@
 Hallo ist bearbeitet
+<<<<<<< HEAD
 Dani und Lucki
 ich schreibe noch etwas dazuvon janosch
 
@@ -6,3 +7,6 @@ ich schreibe noch etwas dazuvon janosch
 neue Änderung auf meinem Branch Janosch
 =======
 nix gibts
+=======
+zurückgelöscht
+>>>>>>> refs/remotes/origin/master
